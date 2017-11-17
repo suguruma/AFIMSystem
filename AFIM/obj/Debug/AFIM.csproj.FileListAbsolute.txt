@@ -1,0 +1,50 @@
+D:\Visual Studio 2008\Projects\AFIMSystem\AFIM\bin\Debug\Resources\iconLandmaker.gif
+D:\Visual Studio 2008\Projects\AFIMSystem\AFIM\bin\Debug\AFIM.exe
+D:\Visual Studio 2008\Projects\AFIMSystem\AFIM\bin\Debug\AFIM.pdb
+D:\Visual Studio 2008\Projects\AFIMSystem\AFIM\bin\Debug\OpenCvSharp.Blob.dll
+D:\Visual Studio 2008\Projects\AFIMSystem\AFIM\bin\Debug\OpenCvSharp.dll
+D:\Visual Studio 2008\Projects\AFIMSystem\AFIM\bin\Debug\OpenCvSharp.Extensions.dll
+D:\Visual Studio 2008\Projects\AFIMSystem\AFIM\bin\Debug\OpenCvSharp.MachineLearning.dll
+D:\Visual Studio 2008\Projects\AFIMSystem\AFIM\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\Visual Studio 2008\Projects\AFIMSystem\AFIM\bin\Debug\zlib.net.dll
+D:\Visual Studio 2008\Projects\AFIMSystem\AFIM\bin\Debug\ZedGraph.dll
+D:\Visual Studio 2008\Projects\AFIMSystem\AFIM\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2008\Projects\AFIMSystem\AFIM\obj\Debug\AFIM.NewWindow.resources
+D:\Visual Studio 2008\Projects\AFIMSystem\AFIM\obj\Debug\AFIM.UntitledWindow.resources
+D:\Visual Studio 2008\Projects\AFIMSystem\AFIM\obj\Debug\AFIM.FaceDetecter.resources
+D:\Visual Studio 2008\Projects\AFIMSystem\AFIM\obj\Debug\AFIM.Aligenment.resources
+D:\Visual Studio 2008\Projects\AFIMSystem\AFIM\obj\Debug\AFIM.NormalizationForFacialTexture.resources
+D:\Visual Studio 2008\Projects\AFIMSystem\AFIM\obj\Debug\AFIM.NormalizationForFacialShape.resources
+D:\Visual Studio 2008\Projects\AFIMSystem\AFIM\obj\Debug\AFIM.Landmarker.resources
+D:\Visual Studio 2008\Projects\AFIMSystem\AFIM\obj\Debug\AFIM.MainSystem.resources
+D:\Visual Studio 2008\Projects\AFIMSystem\AFIM\obj\Debug\AFIM.Properties.Resources.resources
+D:\Visual Studio 2008\Projects\AFIMSystem\AFIM\obj\Debug\AFIM.Warping.resources
+D:\Visual Studio 2008\Projects\AFIMSystem\AFIM\obj\Debug\AFIM.csproj.GenerateResource.Cache
+D:\Visual Studio 2008\Projects\AFIMSystem\AFIM\obj\Debug\AFIM.exe
+D:\Visual Studio 2008\Projects\AFIMSystem\AFIM\obj\Debug\AFIM.pdb
+D:\Visual Studio 2008\Projects\AFIMSystem\AFIM\obj\Debug\AFIM.ChangeTexture.resources
+C:\Users\Terada\Desktop\AFIMSystem\AFIM\obj\Debug\AFIM.exe
+C:\Users\Terada\Desktop\AFIMSystem\AFIM\obj\Debug\AFIM.pdb
+C:\Users\Terada\Desktop\AFIMSystem\AFIM\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Terada\Desktop\AFIMSystem\AFIM\obj\Debug\AFIM.NewWindow.resources
+C:\Users\Terada\Desktop\AFIMSystem\AFIM\obj\Debug\AFIM.UntitledWindow.resources
+C:\Users\Terada\Desktop\AFIMSystem\AFIM\obj\Debug\AFIM.FaceDetecter.resources
+C:\Users\Terada\Desktop\AFIMSystem\AFIM\obj\Debug\AFIM.Aligenment.resources
+C:\Users\Terada\Desktop\AFIMSystem\AFIM\obj\Debug\AFIM.ChangeTexture.resources
+C:\Users\Terada\Desktop\AFIMSystem\AFIM\obj\Debug\AFIM.NormalizationForFacialTexture.resources
+C:\Users\Terada\Desktop\AFIMSystem\AFIM\obj\Debug\AFIM.NormalizationForFacialShape.resources
+C:\Users\Terada\Desktop\AFIMSystem\AFIM\obj\Debug\AFIM.Landmarker.resources
+C:\Users\Terada\Desktop\AFIMSystem\AFIM\obj\Debug\AFIM.MainSystem.resources
+C:\Users\Terada\Desktop\AFIMSystem\AFIM\obj\Debug\AFIM.Properties.Resources.resources
+C:\Users\Terada\Desktop\AFIMSystem\AFIM\obj\Debug\AFIM.Warping.resources
+C:\Users\Terada\Desktop\AFIMSystem\AFIM\obj\Debug\AFIM.csproj.GenerateResource.Cache
+C:\Users\Terada\Desktop\AFIMSystem\AFIM\bin\Debug\Resources\iconLandmaker.gif
+C:\Users\Terada\Desktop\AFIMSystem\AFIM\bin\Debug\AFIM.exe
+C:\Users\Terada\Desktop\AFIMSystem\AFIM\bin\Debug\AFIM.pdb
+C:\Users\Terada\Desktop\AFIMSystem\AFIM\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\Terada\Desktop\AFIMSystem\AFIM\bin\Debug\OpenCvSharp.dll
+C:\Users\Terada\Desktop\AFIMSystem\AFIM\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\Terada\Desktop\AFIMSystem\AFIM\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\Terada\Desktop\AFIMSystem\AFIM\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\Terada\Desktop\AFIMSystem\AFIM\bin\Debug\zlib.net.dll
+C:\Users\Terada\Desktop\AFIMSystem\AFIM\bin\Debug\ZedGraph.dll
